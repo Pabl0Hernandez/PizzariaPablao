@@ -17,7 +17,7 @@ body {
 }
 
 .bgfundo {
-  background: url(https://placehold.co/1920x1080) no-repeat center/cover;
+  background: url(../img/cumidaaa.png) no-repeat center/cover;
 
   /*background-color: blue;
        background-image: url(https://placehold.co/1920x1080);
@@ -108,7 +108,7 @@ header {
 }
 
 #btnzap {
-  background: #b100f7;
+  background: #0f0504c7;
   border-radius: 65px;
   padding: 3px 15px;
   font-size: 20px;
@@ -124,7 +124,7 @@ header {
   position: fixed;
   right: 0;
   top: 200px;
-  box-shadow: -10px 10px 13px 0px rgba(33, 250, 5, 0.8);
+  box-shadow: -10px 10px 13px 0px rgb(253, 152, 0);
 }
 
 #BoasVindas {
@@ -147,7 +147,7 @@ header {
   align-items: center;
 
   & h2 {
-    color: #f300f3;
+    color: #1b0d1b;
     text-transform: uppercase;
     font-size: 28px;
     font-weight: 900;
@@ -278,7 +278,7 @@ header {
   }
 
   input[type="submit"] {
-    background: #51ff00;
+    background: #ff8800;
     border-color: #8400ff;
     width: 155px;
     border-radius: 50px;
@@ -289,9 +289,9 @@ header {
 }
 
 footer {
-  background-color: #ec4c66;
+  background-color: #f3d9d9d2;
   margin-top: -145px;
-  color: #fff;
+  color: #000000;
   text-align: center;
   padding-top: 50px;
 }
